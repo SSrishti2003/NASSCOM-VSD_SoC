@@ -155,7 +155,13 @@ ROUTING: Implement the interconnect using available metal layers. For each metal
 ![Screenshot 2024-03-15 101937](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3e073c07-e53a-4750-b54d-98ea51fa1ad5)
 
 <br>
-
+ASIC DESIGN FLOW has a number of steps which starts with design RTL and ends with GDSII format.
+<br>
+1) SYNTHESIS:
+RTL is fed to YOSYS, which translates it into a logic circuit. 
+SYNTH EXPLORATION decides design delay and area. 
+<br>
+<br>
 
 
 
