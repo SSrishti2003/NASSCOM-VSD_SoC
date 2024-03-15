@@ -158,10 +158,22 @@ ROUTING: Implement the interconnect using available metal layers. For each metal
 ASIC DESIGN FLOW has a number of steps which starts with design RTL and ends with GDSII format.
 <br>
 1) SYNTHESIS:
-RTL is fed to YOSYS, which translates it into a logic circuit. 
+RTL is fed to YOSYS, which translates it into a logic circuit. <br>
 SYNTH EXPLORATION decides design delay and area. 
 <br>
+
 <br>
+<br>
+DESIGN EXPLORATION<br>
+<br>
+<br>
+OPEN LANE REGRESSION TESTING<br>
+70 of them and this generates reports which shows design method and number of violations and then these results are comapred to best known results.
+<br>
+<br>
+DESIGN FOR TEST<BR>
+<BR>
+<BR>
 
 
 
