@@ -24,6 +24,7 @@ Now if we try to open and look inside that IC, the below figure is what it will 
                                                                    [PACKAGE]
 
 The chip is sitting at the centre of the package and it is connected to the pins using bond wires. The signals from the outside world are sent to the chip using these wires.
+<br>
 ![Screenshot 2024-03-14 180905](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/536f07e7-76e9-42c0-b3ca-09061f1bb66a)
                                           [CONNECTION BETWEEN CHIP AND PINS]
 
