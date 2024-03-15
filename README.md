@@ -75,6 +75,7 @@ ex:
 <br>
 <br>
 
+![Screenshot 2024-03-14 202606](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/19dff9f6-4efb-4678-80de-304afa70f699)
 <br>
 Start from the instruction set, get specification of the instruction set, write a hardware description language of the instruction, synthesise it into the gate level, then the gate level is converted into its respective layout using RTL to GDS.
 
@@ -83,6 +84,11 @@ SKY130_D1_SK2 - SoC design and OpenLANE
 SKY_L1 - Introduction to all components of open-source digital asic design
 
 Designing Digital Application Specific Integrated circuits( AISC)
+<br>
+
+![Screenshot 2024-03-14 202606](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/19dff9f6-4efb-4678-80de-304afa70f699)
+
+<br>
 
                                              [REQUIREMENTS FOR ASIC]
 
@@ -90,18 +96,35 @@ PDK: Process Design Kit. These are the collection of files used to model for the
 Process Design rules- LVS, DRC, PEX
 Device Models
 Digital Standard cell Libraries
+<br>
 
+![Screenshot 2024-03-14 202606](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/19dff9f6-4efb-4678-80de-304afa70f699)
+![Screenshot 2024-03-14 212308](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/cb8c0300-eb7a-4551-ae12-669b58d8829e)
+
+<br>
 
 
 SKY_L2 - Simplified RTL2GDS flow
+<br>
 
+![Screenshot 2024-03-14 202606](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/19dff9f6-4efb-4678-80de-304afa70f699)
+
+<br>
 
 The first major step in the ASIC flow is the synthesis where RTL is converted into circuit components from standard cell library(SCL). Standard calls have a regular layout. 
+<br>
 
+![Screenshot 2024-03-14 202606](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/19dff9f6-4efb-4678-80de-304afa70f699)
+
+<br>
 FLOOR AND POWER PLANNING
 i)CHIP-FLOORPLANNING- chip die is partitioned between different components.
+<br>
+![Screenshot 2024-03-14 212308](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/cb8c0300-eb7a-4551-ae12-669b58d8829e)
 
+<br>
 ii)MACRO PLANNING- define macro dimensions and pic locations. In this step, the rows are not undefined
+
 iii) POWER PLANNING- the power network is constructed. The chip is powered by multiple VDD and GND pins. Parallel strips are used to reduce resistance and to address electro migration problems. Electromigration occurs when the current density in the wires exceeds the specified limits for a given process. It uses upper metal layers which are thicker.
 POWER PLANNING
 
