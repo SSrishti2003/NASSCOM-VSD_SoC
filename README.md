@@ -121,22 +121,22 @@ i)CHIP-FLOORPLANNING- chip die is partitioned between different components.
 
 <br>
 ii)MACRO PLANNING- define macro dimensions and pic locations. In this step, the rows are not undefined
+
+iii) POWER PLANNING- the power network is constructed. The chip is powered by multiple VDD and GND pins. Parallel strips are used to reduce resistance and to address electro migration problems. Electromigration occurs when the current density in the wires exceeds the specified limits for a given process. It uses upper metal layers which are thicker.
+POWER PLANNING
 <br>
 
 ![Screenshot 2024-03-14 215847](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/7c8a7211-fe8d-4c16-8367-e25b307df371)
 
 <br>
-iii) POWER PLANNING- the power network is constructed. The chip is powered by multiple VDD and GND pins. Parallel strips are used to reduce resistance and to address electro migration problems. Electromigration occurs when the current density in the wires exceeds the specified limits for a given process. It uses upper metal layers which are thicker.
-POWER PLANNING
+PLACEMENT
+Typically done in 2 steps: Global and Detailed
 <br>
 
 ![Screenshot 2024-03-14 220537](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ee9967b9-1354-4b8b-b687-60cc8a83d3a5)
 
 
 <br>
-PLACEMENT
-Typically done in 2 steps: Global and Detailed
-
 CTS
 <br>
 
@@ -145,7 +145,9 @@ CTS
 <br>
 ROUTING: Implement the interconnect using available metal layers. For each metal layer, the pdk defines the thickness, the pitch and defines the tracks the minimum width. The SKYWATER PDK defines 6 routing layers
 <br>
+
 ![Screenshot 2024-03-14 220714](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e46e2d47-4190-4e17-95bd-3ad24a30a355)
+
 <br>
 SKY_L3 - Introduction to OpenLANE and Strive chipsets
 
