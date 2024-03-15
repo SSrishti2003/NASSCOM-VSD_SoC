@@ -26,29 +26,41 @@ Now if we try to open and look inside that IC, the below figure is what it will 
 The chip is sitting at the centre of the package and it is connected to the pins using bond wires. The signals from the outside world are sent to the chip using these wires.
 <br>
 ![Screenshot 2024-03-14 180905](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/536f07e7-76e9-42c0-b3ca-09061f1bb66a)
+<br>
                                           [CONNECTION BETWEEN CHIP AND PINS]
 
 Now if you look into the chip and study its important components one of which is pads, which are something through which we send the signal inside the chip and vice versa.
 Then comes the core of the chip where our digital logic sits like our gates like OR, AND NOR.  And die is the size of the entire chip, which is getting manufactured on silicon paper.
+<br>
+![Screenshot 2024-03-14 181639](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2fdc96cc-3906-4421-8aef-daeedba53f71)
+<br>
+
 
 
                                                                   [CHIP]
 FOUNDRY:  All performance, all devices are dependent on it. It is a big factory where chips get manufactured,
 IP: Intellectual Property and it needs intelligence to build the blocks.
 MACROS: Pure digital logic 
-
-
+<br>
+![Screenshot 2024-03-14 182737](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/f3f5b12a-1131-4fe8-b81c-63d7a03638a9)
+<br>
         [ FOUNDRY IPS AND MACROS INSIDE A CHIP]
 
-SKY_L2 - Introduction to RISC-V
+<b><h2>SKY_L2 - Introduction to RISC-V</b></h2>
+<br>
+![Screenshot 2024-03-14 184429](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e2b6a615-7c1a-4849-8430-6a74c428bc26)
 
+<br>
 
 RISC-V is the language of the computer. If we want the C program to run on the particular layout, we need to pass the information to the hardware in particular terms. The C program is compiled and converted into machine language.
 One more interface is needed to be present between RISC-V architecture and layout and that is the hardware description language. RISC-V specifications need to be implemented using some RTL.
 
-SKY_L3 - From Software Applications to Hardware
+<b><h2>SKY_L3 - From Software Applications to Hardware</b></h2>
 
+<br>
+![Screenshot 2024-03-14 191056](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4a8b2e4f-7115-4f0e-8320-84c8ecab0d97)
 
+<br>
 
 Application Software enters into system software which converts the program into binary language.
 Major components of system software are OS, COMPILER and ASSEMBLER. Job of an OS is to take the app and convert it into a respective assembly language program so that it is understood by the hardware.
@@ -56,8 +68,10 @@ The output of the OS is small functions in C,C++ JAVA language which using their
 The work of the assembler is to convert instructions into binary language. Then this binary code is fed to the hardware which performs the specific function.
 
 ex:
-
-
+<br>
+![Screenshot 2024-03-14 191312](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/937ff16c-da95-41be-9960-2f47a3547a96)
+![Screenshot 2024-03-14 191350](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3c327ec4-ea42-45bb-beca-372999754972)
+<br>
 
 Start from the instruction set, get specification of the instruction set, write a hardware description language of the instruction, synthesise it into the gate level, then the gate level is converted into its respective layout using RTL to GDS.
 
