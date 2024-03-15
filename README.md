@@ -1,4 +1,4 @@
-![image](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ebac799f-1027-49b1-ba41-af2388f927a2)# NASSDOM-VSD_SoC
+# NASSDOM-VSD_SoC
 ABOUT- This repository contains all the reports made for NASSCOM-VSD SoC Design Program including all 5 days.
 <br>
 DAY 1 NASSDOM _VSD-IAT
