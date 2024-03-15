@@ -1,4 +1,4 @@
-# NASSDOM-VSD_SoC
+![image](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ebac799f-1027-49b1-ba41-af2388f927a2)# NASSDOM-VSD_SoC
 ABOUT- This repository contains all the reports made for NASSCOM-VSD SoC Design Program including all 5 days.
 <br>
 DAY 1 NASSDOM _VSD-IAT
@@ -211,4 +211,30 @@ DURING the PHYSICAL implementation there is a special step which is <b> FAKE ANT
 <br>
 <br>
 <h1><b>SKY130_D1_SK3 - Get familiar to open-source EDA tools</b></h1>
-<h2><b>SKY_L1 - OpenLANE Directory structure in detail</b></h2>
+<h2><b>SKY_LAB WORK</b></h2>
+<br><br>
+LETS FIRST TAKE A GLIMPS AT THE DIFFERENT DIRECTORIES.
+<BR>
+
+
+<BR>
+Now open the openlane directory to work with the tool.<br>
+The command used is <b> docker</b>.<br>
+Then check the directories and use the command <b>open.tcl -interactive</b>, which is used for step by step process.
+<br>
+
+
+<br>
+
+Now as you can see the openlane has been incoked. The next command should be <b>package require openlane 0.9</b>,which imports all the packages which is required for the flow.
+<br>
+The next command is <b>prep -design picorv32a</b>. After that run the synthesis using <b>run_synthesis</b> command.
+<br>
+<br>
+
+
+<br>
+<br>
+NOW lets find flop ratio which is <b> number of d flip flops/ total number of cells </b>= 1613/14876 =<b>0.1084</b><br>
+
+= 
