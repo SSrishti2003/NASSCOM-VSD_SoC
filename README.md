@@ -2,8 +2,8 @@
 ABOUT- This repository contains all the reports made for NASSCOM-VSD SoC Design Program including all 5 days.
 <br>
 DAY 1 NASSDOM _VSD-IAT
-SKY130_D1_SK1: How to talk to Computers
-SKY_L1 - Introduction to QFN-48 Package, chip, pads, core, die and IPs
+<b><h1>SKY130_D1_SK1: How to talk to Computers</b></h1>
+<b><h2>SKY_L1 - Introduction to QFN-48 Package, chip, pads, core, die and IPs</b></h2>
 
              [ARDUINO UNO BOARD]
 
