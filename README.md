@@ -103,7 +103,7 @@ Digital Standard cell Libraries
 <br>
 
 
-SKY_L2 - Simplified RTL2GDS flow
+<b><h2>SKY_L2 - Simplified RTL2GDS flow</h2></b>
 <br>
 ![Screenshot 2024-03-14 214421](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/60c21c84-3a26-4575-ae8b-1416c85bc8f8)
 <br>
@@ -116,29 +116,37 @@ The first major step in the ASIC flow is the synthesis where RTL is converted in
 FLOOR AND POWER PLANNING
 i)CHIP-FLOORPLANNING- chip die is partitioned between different components.
 <br>
+
 ![Screenshot 2024-03-14 215444](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/575ef65d-6dec-4c29-8657-545e33fbe34a)
 
 <br>
 ii)MACRO PLANNING- define macro dimensions and pic locations. In this step, the rows are not undefined
 <br>
+
 ![Screenshot 2024-03-14 215847](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/7c8a7211-fe8d-4c16-8367-e25b307df371)
 
 <br>
 iii) POWER PLANNING- the power network is constructed. The chip is powered by multiple VDD and GND pins. Parallel strips are used to reduce resistance and to address electro migration problems. Electromigration occurs when the current density in the wires exceeds the specified limits for a given process. It uses upper metal layers which are thicker.
 POWER PLANNING
 <br>
+
 ![Screenshot 2024-03-14 220537](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ee9967b9-1354-4b8b-b687-60cc8a83d3a5)
-![Screenshot 2024-03-14 220614](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/9440a0f2-83c4-48c5-9b65-bdfd3f2a7df9)
-![Screenshot 2024-03-14 220714](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e46e2d47-4190-4e17-95bd-3ad24a30a355)
+
+
 <br>
 PLACEMENT
 Typically done in 2 steps: Global and Detailed
 
 CTS
+<br>
 
+![Screenshot 2024-03-14 220614](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/9440a0f2-83c4-48c5-9b65-bdfd3f2a7df9)
+
+<br>
 ROUTING: Implement the interconnect using available metal layers. For each metal layer, the pdk defines the thickness, the pitch and defines the tracks the minimum width. The SKYWATER PDK defines 6 routing layers
-
-
+<br>
+![Screenshot 2024-03-14 220714](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e46e2d47-4190-4e17-95bd-3ad24a30a355)
+<br>
 SKY_L3 - Introduction to OpenLANE and Strive chipsets
 
 
