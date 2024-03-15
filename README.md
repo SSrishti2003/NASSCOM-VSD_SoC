@@ -245,4 +245,5 @@ NOW lets find flop ratio which is <b> number of d flip flops/ total number of ce
 ![Screenshot 2024-03-15 150010](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bdc263ba-c3e1-49aa-8573-7e3431702386)
 
 <br>
-= 
+<br>
+<h1><b>Sky130 Day 2 - Good floorplan vs bad floorplan and introduction to library cells</b></h1><br>
