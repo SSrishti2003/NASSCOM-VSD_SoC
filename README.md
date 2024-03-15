@@ -188,6 +188,19 @@ DESIGN FOR TEST<BR>
 <BR>
 <BR>
 
+LOGIC EQUIVALENCE CHECK
+
+<BR>
+
+![Screenshot 2024-03-15 104708](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3c12f4d8-5295-49ab-a416-a2a7c85ed038)
+![Screenshot 2024-03-15 104726](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c3f63861-6d27-4b62-9dd1-a17b97b24ae2)
+
+<BR>
+
+DURING the PHYSICAL implementation there is a special step which is <b> FAKE ANTENNA DIODE INSERTION SCRIPT</B>, which is required to adderss the antennas rules violation.
+<br>
+<br>
 
 
+<br>
 
