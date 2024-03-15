@@ -162,16 +162,29 @@ RTL is fed to YOSYS, which translates it into a logic circuit. <br>
 SYNTH EXPLORATION decides design delay and area. 
 <br>
 
+![Screenshot 2024-03-15 103319](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/779b0277-094d-4e33-a9fe-6dfcf0eb1a1b)
+
+
 <br>
 <br>
 DESIGN EXPLORATION<br>
 <br>
+
+![Screenshot 2024-03-15 104007](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/00a28ea3-c2b9-421d-8cfd-c5cb929a87c6)
+
 <br>
 OPEN LANE REGRESSION TESTING<br>
 70 of them and this generates reports which shows design method and number of violations and then these results are comapred to best known results.
 <br>
+
+![Screenshot 2024-03-15 104036](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e4a72912-d824-40a3-98c0-3b3e35b32eee)
+
 <br>
 DESIGN FOR TEST<BR>
+<BR>
+
+![Screenshot 2024-03-15 104226](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bec22cd6-b244-41af-b6db-8766430c896a)
+
 <BR>
 <BR>
 
