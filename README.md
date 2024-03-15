@@ -86,7 +86,7 @@ SKY_L1 - Introduction to all components of open-source digital asic design
 Designing Digital Application Specific Integrated circuits( AISC)
 <br>
 
-![Screenshot 2024-03-14 202606](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/19dff9f6-4efb-4678-80de-304afa70f699)
+![Screenshot 2024-03-14 212308](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/cb8c0300-eb7a-4551-ae12-669b58d8829e)
 
 <br>
 
