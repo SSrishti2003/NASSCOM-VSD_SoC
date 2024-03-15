@@ -149,7 +149,8 @@ ROUTING: Implement the interconnect using available metal layers. For each metal
 ![Screenshot 2024-03-14 220714](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e46e2d47-4190-4e17-95bd-3ad24a30a355)
 
 <br>
-SKY_L3 - Introduction to OpenLANE and Strive chipsets
+<h2><b></b></h2>SKY_L3 - Introduction to OpenLANE and Strive chipsets</h2></b>
+
 
 
 
