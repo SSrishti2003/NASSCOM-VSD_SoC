@@ -21,16 +21,15 @@ The highlighted chip is what we are going to study for now. The diagram below is
 Now if we try to open and look inside that IC, the below figure is what it will look like. From now on we will call this a package. There are different types of packages and all look different. The pin location of this package is driven by the arduino board it is embedded on.
 ![Screenshot 2024-03-14 180546](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/523dc8f2-12a5-4840-9f58-bab750141fc9)
 
-[PACKAGE]
+                                                                   [PACKAGE]
 
 The chip is sitting at the centre of the package and it is connected to the pins using bond wires. The signals from the outside world are sent to the chip using these wires.
-![Screenshot 2024-03-14 180758](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/7c7c7815-c750-48fc-b17e-347a0357e062)
-
-                                       [CONNECTION BETWEEN CHIP AND PINS]
+![Screenshot 2024-03-14 180905](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/536f07e7-76e9-42c0-b3ca-09061f1bb66a)
+                                          [CONNECTION BETWEEN CHIP AND PINS]
 
 Now if you look into the chip and study its important components one of which is pads, which are something through which we send the signal inside the chip and vice versa.
 Then comes the core of the chip where our digital logic sits like our gates like OR, AND NOR.  And die is the size of the entire chip, which is getting manufactured on silicon paper.
-![Screenshot 2024-03-14 180905](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/536f07e7-76e9-42c0-b3ca-09061f1bb66a)
+
 
                                                                   [CHIP]
 FOUNDRY:  All performance, all devices are dependent on it. It is a big factory where chips get manufactured,
