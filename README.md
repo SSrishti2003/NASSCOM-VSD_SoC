@@ -201,6 +201,12 @@ DURING the PHYSICAL implementation there is a special step which is <b> FAKE ANT
 <br>
 <br>
 
+![Screenshot 2024-03-15 105137](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d44ca223-5be1-4aa9-af5d-7403d2dc1a92)<br>
+![Screenshot 2024-03-15 105251](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/79bad89a-5ba9-4e9d-a187-ffef999cb370)<br>
+![Screenshot 2024-03-15 105639](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2d9558a1-2124-40ea-8017-9b7f9908336f)<br>
+![Screenshot 2024-03-15 105719](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ecefb0b4-6c81-4c91-aa3d-912866327e7d)<br>
+![Screenshot 2024-03-15 105726](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/975e0720-646f-44a7-b3cc-2d58d4816d6c)<br>
+
 
 <br>
 
