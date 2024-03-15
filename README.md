@@ -38,9 +38,9 @@ Then comes the core of the chip where our digital logic sits like our gates like
 
 
                                                                   [CHIP]
-FOUNDRY:  All performance, all devices are dependent on it. It is a big factory where chips get manufactured,
-IP: Intellectual Property and it needs intelligence to build the blocks.
-MACROS: Pure digital logic 
+FOUNDRY:  All performance, all devices are dependent on it. It is a big factory where chips get manufactured.<br>
+IP: Intellectual Property and it needs intelligence to build the blocks.<br>
+MACROS: Pure digital logic.
 <br>
 ![Screenshot 2024-03-14 182737](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/f3f5b12a-1131-4fe8-b81c-63d7a03638a9)
 <br>
@@ -63,10 +63,10 @@ One more interface is needed to be present between RISC-V architecture and layou
 
 <br>
 
-Application Software enters into system software which converts the program into binary language.
-Major components of system software are OS, COMPILER and ASSEMBLER. Job of an OS is to take the app and convert it into a respective assembly language program so that it is understood by the hardware.
-The output of the OS is small functions in C,C++ JAVA language which using their respective compiler are converted into instructions. The syntax of the instructions depends on the type of hardware.
-The work of the assembler is to convert instructions into binary language. Then this binary code is fed to the hardware which performs the specific function.
+Application Software enters into system software which converts the program into binary language.<br>
+Major components of system software are OS, COMPILER and ASSEMBLER. Job of an OS is to take the app and convert it into a respective assembly language program so that it is understood by the hardware.<br>
+The output of the OS is small functions in C,C++ JAVA language which using their respective compiler are converted into instructions. The syntax of the instructions depends on the type of hardware.<br>
+The work of the assembler is to convert instructions into binary language. Then this binary code is fed to the hardware which performs the specific function.<br>
 
 ex:
 <br>
@@ -92,10 +92,10 @@ Designing Digital Application Specific Integrated circuits( AISC)
 
                                              [REQUIREMENTS FOR ASIC]
 
-PDK: Process Design Kit. These are the collection of files used to model for the fabrication process for the EDA tools used in IC design. It contains :
-Process Design rules- LVS, DRC, PEX
-Device Models
-Digital Standard cell Libraries
+PDK: Process Design Kit. These are the collection of files used to model for the fabrication process for the EDA tools used in IC design. It contains :<br>
+Process Design rules- LVS, DRC, PEX<br>
+Device Models<br>
+Digital Standard cell Libraries<br>
 <br>
 ![Screenshot 2024-03-14 214112](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ce9ce495-c023-483a-aafd-19e99237afca)
 ![Screenshot 2024-03-14 214333](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6078d34c-66b9-4d9a-af46-2868ba2da42c)
