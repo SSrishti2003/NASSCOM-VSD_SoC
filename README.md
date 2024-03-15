@@ -215,7 +215,8 @@ DURING the PHYSICAL implementation there is a special step which is <b> FAKE ANT
 <br><br>
 LETS FIRST TAKE A GLIMPS AT THE DIFFERENT DIRECTORIES.
 <BR>
-
+ 
+![Screenshot 2024-03-15 140411](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/19bb9dc1-1cb1-4e49-b63f-1810d8102cc3)
 
 <BR>
 Now open the openlane directory to work with the tool.<br>
@@ -223,6 +224,7 @@ The command used is <b> docker</b>.<br>
 Then check the directories and use the command <b>open.tcl -interactive</b>, which is used for step by step process.
 <br>
 
+![Screenshot 2024-03-15 141829](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1791fef6-4970-46f1-9895-553d4416004d)
 
 <br>
 
@@ -232,9 +234,15 @@ The next command is <b>prep -design picorv32a</b>. After that run the synthesis 
 <br>
 <br>
 
+![Screenshot 2024-03-15 145728](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/db40f915-e3d2-4e11-8f1a-0f80f1d36fdb)
 
 <br>
 <br>
 NOW lets find flop ratio which is <b> number of d flip flops/ total number of cells </b>= 1613/14876 =<b>0.1084</b><br>
+<br>
 
+![Screenshot 2024-03-15 145958](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4664d053-7fdf-4ca3-b949-e55a8a14988b)
+![Screenshot 2024-03-15 150010](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bdc263ba-c3e1-49aa-8573-7e3431702386)
+
+<br>
 = 
