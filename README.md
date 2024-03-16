@@ -2,10 +2,8 @@
 ABOUT- This repository contains all the reports made for NASSCOM-VSD SoC Design Program including all 5 days.
 <br><br>
 <b><h1>TABLE OF CONTENTS</b></h1>
-<a href="
-DAY 1 NASSDOM _VSD-IAT">DAY 1 NASSDOM _VSD-IAT</a>
+1)<a href="DAY 1 NASSDOM _VSD-IAT">DAY 1 NASSDOM _VSD-IAT</a>
 <br>
-<b><h1>DAY 1 NASSDOM _VSD-IAT</b></h1>
 <b><h1>SKY130_D1_SK1: How to talk to Computers</b></h1>
 <b><h2>SKY_L1 - Introduction to QFN-48 Package, chip, pads, core, die and IPs</b></h2>
 <br>
@@ -255,6 +253,7 @@ NOW lets find flop ratio which is <b> number of d flip flops/ total number of ce
 
 
 <h1><b>Sky130 Day 2 - Good floorplan vs bad floorplan and introduction to library cells</b></h1><br>
+<h2><b> SKY130_D2_SK1 - Chip Floor planning considerations </b></h2>
 <br>
 <b> 1) </b>The first step of physical design overview flow is to define width and height. <br>
 <br>
