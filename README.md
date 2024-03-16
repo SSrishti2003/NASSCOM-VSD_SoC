@@ -280,3 +280,9 @@ The netlist is placed perfectly inside the core which means that the core utilis
 If the aspect ratio is 1 it signifies the chip is square, otherwise it is rectangle. 
 <BR><BR>
 <B>2) DEFINE LOCATIONS OF PREPLACED CELLS</B>
+<BR><BR>
+For the combinational circuits, they can be divided into various blocks too. The advantage is if the respective circuit is replicated a lot of times in the circuit, then we can just clack box them.
+<br>
+
+
+<br>
