@@ -290,3 +290,24 @@ For the combinational circuits, they can be divided into various blocks too. The
 ![Screenshot 2024-03-16 195358](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/53df8b71-4b8e-46d0-96ae-f3f10b5c0659)
 
 <br>
+<br><br><br>
+<b>3) SURROUND PREPLACED CELLS WITH DECOUPLING CAPACIOTRS</b><BR>
+<br>
+
+
+<br><br>
+If we take any AND gate, and it switches from logic 0 to logic 1, there is an amount of current demand that it needs as there is a small capacitance sitting over there and whenever there is a switching from 0 to 1, the capacitance has to completely charge to logic 1 and that charge is sent from supply voltage.<br> When the supply voltage passes through the wire to the circuit, there is a drop in the wire.
+<br>
+
+
+<br>
+<br> Also, the vdd' should be within the noise margin range. If it doesnt then the logic 1 is unstable which is why there shouldnt be much gap between power supply and main circuit.<br>
+<br>
+
+
+<br><br>
+We can solve the above problem with the help of decoupling capacitor. The voltage across it is similar to power supply so whenever the circuit switches, it gets its voltage from capacitor.<br><br>
+<br>
+
+
+<br>
