@@ -267,14 +267,15 @@ To define the dimensions of the chip we need the dimensions of the logic gates. 
 ![Screenshot 2024-03-15 194312](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/224c87b1-5a76-44e5-970b-d89d76124c12)
 
 <br>
-
-![Screenshot 2024-03-15 232636](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4b39de2a-e321-4b89-97fb-a95e389935e3)
-
 <br>
 The netlist is placed perfectly inside the core which means that the core utilisation is 100%. utilisation= (area occupied by netlist)/ (total area of the core)<br>
 
 
 <br>
+
+
+![Screenshot 2024-03-15 232636](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4b39de2a-e321-4b89-97fb-a95e389935e3)
+
 <br>
 If the aspect ratio is 1 it signifies the chip is square, otherwise it is rectangle. 
 
