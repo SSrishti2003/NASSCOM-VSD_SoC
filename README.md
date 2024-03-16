@@ -291,7 +291,7 @@ For the combinational circuits, they can be divided into various blocks too. The
 
 <br>
 <br><br><br>
-<b>3) SURROUND PREPLACED CELLS WITH DECOUPLING CAPACIOTRS</b><BR>
+<b>3) SURROUND PREPLACED CELLS WITH DECOUPLING CAPACITORS</b><BR>
 <br>
 
 
