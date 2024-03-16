@@ -284,5 +284,9 @@ If the aspect ratio is 1 it signifies the chip is square, otherwise it is rectan
 For the combinational circuits, they can be divided into various blocks too. The advantage is if the respective circuit is replicated a lot of times in the circuit, then we can just clack box them.
 <br>
 
+![Screenshot 2024-03-16 194821](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8110c6fe-1e01-4686-a475-67160e9e98a1)
+![Screenshot 2024-03-16 195115](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/9424a02e-391a-456c-a037-f441208dd1a8)
+![Screenshot 2024-03-16 195145](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b5f7cf1d-9cd4-4657-9a90-009de99216ae)
+![Screenshot 2024-03-16 195358](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/53df8b71-4b8e-46d0-96ae-f3f10b5c0659)
 
 <br>
