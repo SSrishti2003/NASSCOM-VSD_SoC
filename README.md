@@ -246,4 +246,38 @@ NOW lets find flop ratio which is <b> number of d flip flops/ total number of ce
 
 <br>
 <br>
+
+
+
+
 <h1><b>Sky130 Day 2 - Good floorplan vs bad floorplan and introduction to library cells</b></h1><br>
+<br>
+The first step of physical design overview flow is to define width and height. <br>
+<br>
+
+
+
+<br>
+
+To define the dimensions of the chip we need the dimensions of the logic gates. We have created an example netlist in this. Here we are not interested in the wires for now and just the dimensions of the standard cells.
+<br>
+
+
+
+
+
+
+
+<br>
+
+
+
+
+<br>
+The netlist is placed perfectly inside the core which means that the core utilisation is 100%. utilisation= (area occupied by netlist)/ (total area of the core)<br>
+
+
+<br>
+<br>
+If the aspect ratio is 1 it signifies the chip is square, otherwise it is rectangle. 
+
