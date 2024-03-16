@@ -294,20 +294,25 @@ For the combinational circuits, they can be divided into various blocks too. The
 <b>3) SURROUND PREPLACED CELLS WITH DECOUPLING CAPACITORS</b><BR>
 <br>
 
+![Screenshot 2024-03-16 210829](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ec815ab5-bd74-4746-b75b-eb4869047602)
+![Screenshot 2024-03-16 211830](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fbd41931-0909-4757-8df9-609b35b05ff4)
 
 <br><br>
 If we take any AND gate, and it switches from logic 0 to logic 1, there is an amount of current demand that it needs as there is a small capacitance sitting over there and whenever there is a switching from 0 to 1, the capacitance has to completely charge to logic 1 and that charge is sent from supply voltage.<br> When the supply voltage passes through the wire to the circuit, there is a drop in the wire.
 <br>
 
+![Screenshot 2024-03-16 211945](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b79dd1a3-0e71-43f5-884e-1cfffc839fc9)
 
 <br>
 <br> Also, the vdd' should be within the noise margin range. If it doesnt then the logic 1 is unstable which is why there shouldnt be much gap between power supply and main circuit.<br>
 <br>
 
+![Screenshot 2024-03-16 212512](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8bf2dc28-3915-4365-8234-0e1c2eae4b8d)
 
 <br><br>
 We can solve the above problem with the help of decoupling capacitor. The voltage across it is similar to power supply so whenever the circuit switches, it gets its voltage from capacitor.<br><br>
 <br>
 
+![Screenshot 2024-03-16 213024](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/a588530b-4bd2-4143-9880-5a112ca16eca)
 
 <br>
