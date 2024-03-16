@@ -252,7 +252,7 @@ NOW lets find flop ratio which is <b> number of d flip flops/ total number of ce
 
 <h1><b>Sky130 Day 2 - Good floorplan vs bad floorplan and introduction to library cells</b></h1><br>
 <br>
-The first step of physical design overview flow is to define width and height. <br>
+<b> 1) </b>The first step of physical design overview flow is to define width and height. <br>
 <br>
 
 ![Screenshot 2024-03-15 192255](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/97cccffa-d35a-4094-a5ae-0e17dacdd901)
@@ -278,4 +278,5 @@ The netlist is placed perfectly inside the core which means that the core utilis
 
 <br>
 If the aspect ratio is 1 it signifies the chip is square, otherwise it is rectangle. 
-
+<BR><BR>
+<B>2) DEFINE LOCATIONS OF PREPLACED CELLS</B>
