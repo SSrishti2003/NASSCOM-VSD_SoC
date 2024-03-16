@@ -255,23 +255,22 @@ NOW lets find flop ratio which is <b> number of d flip flops/ total number of ce
 The first step of physical design overview flow is to define width and height. <br>
 <br>
 
-
+![Screenshot 2024-03-15 192255](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/97cccffa-d35a-4094-a5ae-0e17dacdd901)
 
 <br>
 
 To define the dimensions of the chip we need the dimensions of the logic gates. We have created an example netlist in this. Here we are not interested in the wires for now and just the dimensions of the standard cells.
 <br>
-
-
-
-
-
-
+![Screenshot 2024-03-15 192418](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c2fb02e4-8b87-41c2-b4f7-9accd8d75442)
+![Screenshot 2024-03-15 192720](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/7df6176e-6e96-4677-8fd0-38b8bc60be6f)
+![Screenshot 2024-03-15 192734](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/de432f58-d671-48c1-8d39-60f6c29189ed)
+![Screenshot 2024-03-15 194300](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/f756a056-d74f-4714-856e-b80d25ee493d)
+![Screenshot 2024-03-15 194312](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/224c87b1-5a76-44e5-970b-d89d76124c12)
 
 <br>
 
 
-
+![Screenshot 2024-03-15 232636](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4b39de2a-e321-4b89-97fb-a95e389935e3)
 
 <br>
 The netlist is placed perfectly inside the core which means that the core utilisation is 100%. utilisation= (area occupied by netlist)/ (total area of the core)<br>
