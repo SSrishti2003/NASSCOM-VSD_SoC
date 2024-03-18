@@ -424,7 +424,13 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 <br>
 <B>LOGIC SYNTHESIS: </B> The first step to convert functionality into legal hardware is this. Th output of logic synthesis is the arrangement of gates that will represent original functionality.
 
+<br>
 
+![Screenshot 2024-03-18 191704](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2e8a1aa7-574a-49fb-a37f-cce623226f20)
+![Screenshot 2024-03-18 191941](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fd36f9e3-d60f-44eb-aac5-9dba2f204c79)
+![Screenshot 2024-03-18 192013](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/76a27762-a7b5-4438-9a6e-0b06966f676c)
+![Screenshot 2024-03-18 192037](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b8be417b-d9d1-4d00-9962-fa108c99aad5)
+![Screenshot 2024-03-18 192056](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2100adeb-7e8e-4182-8eaf-5dfb323b9aac)
 
 
 <BR>
