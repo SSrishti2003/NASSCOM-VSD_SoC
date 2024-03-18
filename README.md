@@ -11,7 +11,7 @@ ABOUT- This repository contains all the reports made for NASSCOM-VSD SoC Design 
 
 
 
-## DAY-1<a name="DAY-1"></a>
+## DAY_1<a name="DAY_1"></a>
 <b><h1>SKY130_D1_SK1: How to talk to Computers</b></h1>
 <b><h2>SKY_L1 - Introduction to QFN-48 Package, chip, pads, core, die and IPs</b></h2>
 <br>
@@ -259,7 +259,7 @@ NOW lets find flop ratio which is <b> number of d flip flops/ total number of ce
 
 
 
-
+## DAY_2<a name="DAY_2"></a>
 <h1><b>Sky130 Day 2 - Good floorplan vs bad floorplan and introduction to library cells</b></h1><br>
 <h2><b> SKY130_D2_SK1 - Chip Floor planning considerations </b></h2>
 <br>
