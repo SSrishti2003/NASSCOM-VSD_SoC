@@ -450,3 +450,7 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 
 <br>
 
+<b><h2>SKY130_D2_SK3 - Cell design and characterization flows</b></h2>
+<br><b><h4>CELL DESIGN FLOW</b></h4>
+<br>
+
