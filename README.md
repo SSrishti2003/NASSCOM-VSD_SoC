@@ -352,3 +352,4 @@ Same happens with voltage supply. This can be avoided if each has their own powe
 ![Screenshot 2024-03-16 222612](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e0b5afef-ce4f-412b-ab43-4245221c9823)
 
 <br>
+<H3><B>LAB WORK</B></H3>
