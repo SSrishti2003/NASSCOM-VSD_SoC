@@ -384,7 +384,10 @@ Now let's go to config.tcl in picorv32a which has higher design priority than th
 ![Screenshot 2024-03-18 172114](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2633f324-3e82-443a-af34-cc9f9234eef7)
 
 <br>
-<br> ON MAGIC<BR>
+<br> <b>ON MAGIC: </b> commands to be given:<br>
+run_floorplan
+magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+<BR>
 <BR>
 
 ![Screenshot 2024-03-18 181402](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d2a9f665-4a31-4479-aa6b-35bb63cad980)
@@ -435,3 +438,10 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 
 <BR>
 <BR>
+<b>LAB</b>
+1) <B>run_placement</B><br>
+<br>
+
+
+<br>
+
