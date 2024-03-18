@@ -324,15 +324,30 @@ We can solve the above problem with the help of decoupling capacitor. The voltag
 
 <br><br>
 Now lets consider the circuit as a <B>MACRO</B>  and it demands a current.
-<br>
+<br><br>
+<b>4) POWER PLANNING </b>
+<br><br>
 
 ![Screenshot 2024-03-16 215157](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8ff971df-22e2-46c2-9375-aa614cdfccd0)
 ![Screenshot 2024-03-16 215229](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1157ff72-40fb-4a35-82f2-748f04d4e9a1)
 ![Screenshot 2024-03-16 220716](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/01dab516-080b-4cd2-821b-beb539dfb0f6)
 ![Screenshot 2024-03-16 220831](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e9b19374-a72d-4263-a5cb-dea074728ba9)
+
+<br>
+<br>
+<br>
+A ground bounce is when all the capacitors are discharging at the same time there will be a bump in ground line and if the size of the bump exceeds noise margin level, it might enter an undefined region and might go to either logic 1 or 0.<br><br>
+Same happens with voltage supply. This can be avoided if each has their own power supply nearby.<br>
+<br>
+
 ![Screenshot 2024-03-16 221504](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b4007b34-4e74-43f0-af2f-e9d00aeb3276)
 ![Screenshot 2024-03-16 221651](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/f4df3ff7-c29e-46f8-80db-5da78b67a471)
 ![Screenshot 2024-03-16 221722](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2f457246-7d5a-4d72-89c2-03b1a9ede80a)
+
+<br>
+<br>
+  <b>5) PIN PLACEMENT </b><BR><BR>
+  
 ![Screenshot 2024-03-16 222453](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/395ef5ac-3924-4a4e-8838-14528e06b911)
 ![Screenshot 2024-03-16 222612](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e0b5afef-ce4f-412b-ab43-4245221c9823)
 
