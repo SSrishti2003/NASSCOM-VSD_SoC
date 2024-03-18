@@ -406,3 +406,14 @@ LIBRARY: It contains cells which can have different dimensions, various shapes o
 
 <br><br>
 The next step is to take those shapes and place it onto the floorplan.
+We use buffers or repeaters to retain signal intergrity. They reproduce the same signal they receive and send it again.
+<br>
+
+
+<br><BR>
+<B>PLACEMENT OPTIMISTATION</B>
+<BR>
+
+
+<BR>
+<BR>
