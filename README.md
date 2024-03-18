@@ -390,7 +390,6 @@ Now let's go to config.tcl in picorv32a which has higher design priority than th
 ![Screenshot 2024-03-18 181402](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d2a9f665-4a31-4479-aa6b-35bb63cad980)
 ![Screenshot 2024-03-18 181413](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ac4bdc1a-06f4-43e6-921e-1d880f8030dd)
 ![Screenshot 2024-03-18 181427](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/636759ac-addb-4472-90d8-8f7f950a2d87)
-![Screenshot 2024-03-18 181434](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0842d7d7-14a2-481c-a001-b9a4e4f1d0fd)
 
 <br>
 <br>
