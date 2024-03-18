@@ -394,3 +394,15 @@ Now let's go to config.tcl in picorv32a which has higher design priority than th
 <br>
 <br>
 <H2><B> SKY130_D2_SK2 - Library Binding and Placement </B></H2>
+<BR>1)<B>PLACEMENT AND NETLIST</B>
+<BR>
+
+
+<BR>
+<BR>
+LIBRARY: It contains cells which can have different dimensions, various shapes of the cells, and timing info. Bigger cells have lesser resistance while the functionality is the same.
+<br>
+
+
+<br><br>
+The next step is to take those shapes and place it onto the floorplan.
