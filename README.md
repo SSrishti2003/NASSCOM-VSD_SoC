@@ -422,7 +422,7 @@ The next step is to take those shapes and place it onto the floorplan.
 
 We use buffers or repeaters to retain signal intergrity. They reproduce the same signal they receive and send it again.
 <br>
-
+<B>LOGIC SYNTHESIS: </B> The first step to convert functionality into legal hardware is this. Th output of logic synthesis is the arrangement of gates that will represent original functionality.
 
 
 
