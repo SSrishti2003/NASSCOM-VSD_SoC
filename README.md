@@ -394,3 +394,4 @@ Now let's go to config.tcl in picorv32a which has higher design priority than th
 
 <br>
 <br>
+<H2><B> SKY130_D2_SK2 - Library Binding and Placement </B></H2>
