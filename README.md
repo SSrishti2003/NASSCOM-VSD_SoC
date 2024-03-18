@@ -353,3 +353,27 @@ Same happens with voltage supply. This can be avoided if each has their own powe
 
 <br>
 <H3><B>LAB WORK</B></H3>
+BEFORE RUNNING FLOORPLAN, WE WILL DO CERTAIN THINGS.
+<br>
+
+
+<br>
+<br>WE will go to floorplan.tcl  and check the different parameters
+<br>
+
+
+<br>
+<br>
+
+Now let's go to config.tcl in picorv32a which has higher design priority than the previous one.  There were parameters missing in this so we used “gedit” command and edited it.
+<br>
+
+
+
+<br>
+<br>
+1 micron= 1000 data base units<br>
+<br>
+
+<br>
+<br>
