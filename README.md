@@ -390,6 +390,7 @@ Now let's go to config.tcl in picorv32a which has higher design priority than th
 ![Screenshot 2024-03-18 181402](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d2a9f665-4a31-4479-aa6b-35bb63cad980)
 ![Screenshot 2024-03-18 181413](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ac4bdc1a-06f4-43e6-921e-1d880f8030dd)
 ![Screenshot 2024-03-18 181427](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/636759ac-addb-4472-90d8-8f7f950a2d87)
+![Screenshot 2024-03-18 183425](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b7d5a711-dc1e-4162-8c84-d609d471a4ce)
 
 <br>
 <br>
@@ -397,22 +398,33 @@ Now let's go to config.tcl in picorv32a which has higher design priority than th
 <BR>1)<B>PLACEMENT AND NETLIST</B>
 <BR>
 
+![Screenshot 2024-03-18 183717](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/30306153-0689-4d31-ad5d-78a951a9235c)
+![Screenshot 2024-03-18 183857](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/20805e93-86d1-45ef-8ad4-c29a6b6ba77e)
 
 <BR>
 <BR>
 LIBRARY: It contains cells which can have different dimensions, various shapes of the cells, and timing info. Bigger cells have lesser resistance while the functionality is the same.
 <br>
 
+![Screenshot 2024-03-18 184531](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/89c9926c-4413-4e73-ae39-6821a35358e1)
 
-<br><br>
+<br><br><B>PLACEMENT OPTIMISTATION</B>
 The next step is to take those shapes and place it onto the floorplan.
+<br><BR>
+
+![Screenshot 2024-03-18 184815](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1cd33063-4f45-4548-bb50-2f8b880dbc81)
+![Screenshot 2024-03-18 185146](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/31fb6b0e-516d-42d1-bd5f-d23914ee01f4)
+![Screenshot 2024-03-18 185359](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c2d33171-10d7-4e71-92d1-146f922b925d)
+![Screenshot 2024-03-18 185852](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/17239f02-a56e-440f-b111-ff44d71335d7)
+![Screenshot 2024-03-18 185948](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c452590c-8da8-4753-803f-e6f49030e83a)
+
+<br>
+
 We use buffers or repeaters to retain signal intergrity. They reproduce the same signal they receive and send it again.
 <br>
 
 
-<br><BR>
-<B>PLACEMENT OPTIMISTATION</B>
-<BR>
+
 
 
 <BR>
