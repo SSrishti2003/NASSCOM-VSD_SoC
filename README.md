@@ -442,6 +442,11 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 1) <B>run_placement</B><br>
 <br>
 
+![Screenshot 2024-03-18 193102](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/44403cb1-e97a-4394-9aed-e7973b756f1b)
+![Screenshot 2024-03-18 195524](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1cbdc97e-b04d-4ea6-8355-1a2aa985d154)
+![Screenshot 2024-03-18 200142](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/71a76a1e-00f6-4793-8495-612eb0291a6a)
+![Screenshot 2024-03-18 200216](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/9b2815ac-f6b8-4911-927e-4a98aca70039)
+![Screenshot 2024-03-18 200345](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/07809701-2c29-4183-ae9e-f2d124026bb6)
 
 <br>
 
