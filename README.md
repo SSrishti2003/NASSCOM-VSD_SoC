@@ -1,16 +1,17 @@
 # NASSDOM-VSD_SoC
 ABOUT- This repository contains all the reports made for NASSCOM-VSD SoC Design Program including all 5 days.
 <br><br>
-<b><h1>TABLE OF CONTENTS</b></h1>
-1)[DAY-1_NASSDOM _VSD-IAT](#DAY-1_NASSDOM _VSD-IAT)
-2)[DAY-2_NASSDOM _VSD-IAT](#DAY-2_NASSDOM _VSD-IAT)
-3)[DAY-3_NASSDOM _VSD-IAT](#DAY-3_NASSDOM _VSD-IAT)
-4)[DAY-4_NASSDOM _VSD-IAT](#DAY-4_NASSDOM _VSD-IAT)
-5)[DAY-5_NASSDOM _VSD-IAT](#DAY-5_NASSDOM _VSD-IAT)
+# Table of Contents
+
+- [DAY_1](#DAY_1)
+- [DAY_2](#DAY_2)
+- [DAY_3](#DAY_3)
+- [DAY_4](#DAY_4)
+- [DAY_5](#DAY_5)
 
 
 
-## DAY-1_NASSDOM _VSD-IAT<a name="DAY-1_NASSDOM _VSD-IAT"></a>
+## DAY-1<a name="DAY-1"></a>
 <b><h1>SKY130_D1_SK1: How to talk to Computers</b></h1>
 <b><h2>SKY_L1 - Introduction to QFN-48 Package, chip, pads, core, die and IPs</b></h2>
 <br>
