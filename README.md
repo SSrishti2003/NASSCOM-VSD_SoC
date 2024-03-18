@@ -356,11 +356,14 @@ Same happens with voltage supply. This can be avoided if each has their own powe
 BEFORE RUNNING FLOORPLAN, WE WILL DO CERTAIN THINGS.
 <br>
 
+![Screenshot 2024-03-16 232955](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/979d0e97-d34e-4a13-b378-a888aef1b7fb)
 
 <br>
 <br>WE will go to floorplan.tcl  and check the different parameters
 <br>
 
+![Screenshot 2024-03-16 233023](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4c86bc8b-d769-4092-b152-eb81691bdf00)
+![Screenshot 2024-03-16 233041](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/13a78499-1bfb-4b0c-8645-7c1cfdeaf13c)
 
 <br>
 <br>
@@ -368,12 +371,27 @@ BEFORE RUNNING FLOORPLAN, WE WILL DO CERTAIN THINGS.
 Now let's go to config.tcl in picorv32a which has higher design priority than the previous one.  There were parameters missing in this so we used “gedit” command and edited it.
 <br>
 
+![Screenshot 2024-03-16 233058](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d7b1703b-9361-4ab6-9475-6bd2f56632dd)
+![Screenshot 2024-03-16 233107](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2586a699-4d73-40ab-91fc-35a07ecccf04)
+![Screenshot 2024-03-18 170635](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b5cd6e53-6fa3-4727-ba17-e4cc6ec965fa)
 
 
 <br>
 <br>
 1 micron= 1000 data base units<br>
 <br>
+
+![Screenshot 2024-03-18 172114](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2633f324-3e82-443a-af34-cc9f9234eef7)
+
+<br>
+<br> ON MAGIC<BR>
+<BR>
+
+![Screenshot 2024-03-18 181224](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e53640e0-4200-4486-bdda-bc6b45c4c6e1)
+![Screenshot 2024-03-18 181402](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d2a9f665-4a31-4479-aa6b-35bb63cad980)
+![Screenshot 2024-03-18 181413](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ac4bdc1a-06f4-43e6-921e-1d880f8030dd)
+![Screenshot 2024-03-18 181427](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/636759ac-addb-4472-90d8-8f7f950a2d87)
+![Screenshot 2024-03-18 181434](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0842d7d7-14a2-481c-a001-b9a4e4f1d0fd)
 
 <br>
 <br>
