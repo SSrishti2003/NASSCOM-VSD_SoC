@@ -464,3 +464,4 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 ![Screenshot 2024-03-18 205931](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/24df45b9-2a77-4f15-8d7c-ac43f3d56391)
 
 <br>
+<b><h2>SKY130_D2_SK4 - General timing characterization parameters</h2></b><br>
