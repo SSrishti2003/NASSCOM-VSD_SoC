@@ -521,4 +521,4 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 ![Screenshot 2024-03-19 212418](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8459cde3-a615-4c1c-a57f-a56351ca860b)
 
 <BR><BR>
-<B><H2> SKY130_D3_SK2 - Inception of Layout ÃÂ CMOS fabrication process </B></H2>
+<B><H2> SKY130_D3_SK2 - Inception of Layout  CMOS fabrication process </B></H2>
