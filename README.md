@@ -488,6 +488,14 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 <b>PROPOGATION DELAY AND TRANSISTION TIME</b>
 <BR>
 
+![Screenshot 2024-03-19 102243](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0bec77f3-b50d-4434-b310-607f4ecac268)
+![Screenshot 2024-03-19 102431](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/15c548c8-2344-4516-9fd7-b6a75ca94b93)
+![Screenshot 2024-03-19 102459](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/406d6bf6-b5ac-4e70-b7fd-07cde408812e)
+![Screenshot 2024-03-19 102616](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/41eb026a-be3c-42b3-81ce-7c602806ba9e)
+![Screenshot 2024-03-19 102652](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ed6e4b5d-07d0-4965-aecc-1bc6890e249f)
+![Screenshot 2024-03-19 102713](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fe0b704e-98e6-4144-b771-77e0902371e7)
+![Screenshot 2024-03-19 102719](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b4b8849f-39e9-4adb-a59d-2b224b9bb4c2)
+![Screenshot 2024-03-19 102820](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/39571e1a-2731-43d1-b0d4-47f3e6c37c81)
 
 <BR>
 
