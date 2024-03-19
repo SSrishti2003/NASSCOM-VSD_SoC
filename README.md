@@ -464,4 +464,20 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 ![Screenshot 2024-03-18 205931](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/24df45b9-2a77-4f15-8d7c-ac43f3d56391)
 
 <br>
+
+![Screenshot 2024-03-18 212940](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/31df59d8-802b-4d79-bc5a-b1d921bbd22c)
+![Screenshot 2024-03-18 214026](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/73d72adf-a873-4e17-9348-f937a82b54ac)
+![Screenshot 2024-03-18 214232](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0dc9da98-f994-45ef-a226-5963e2d80c19)
+![Screenshot 2024-03-18 214306](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0716db70-67d4-4799-b9ee-beaae89680c4)
+
+<br>
 <b><h2>SKY130_D2_SK4 - General timing characterization parameters</h2></b><br>
+<br>
+
+![Screenshot 2024-03-19 100908](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/38b6a831-cb91-446c-842e-a0b9fa6817bc)
+![Screenshot 2024-03-19 101136](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/86d5739f-6f79-4408-8023-0910c6bd99e7)
+![Screenshot 2024-03-19 101151](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bf9acd60-91bc-44cc-b75a-c29a4777f72c)
+![Screenshot 2024-03-19 101300](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2e098220-d460-4b52-b089-2d823759d32a)
+![Screenshot 2024-03-19 101309](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0997bcc0-81e6-4bdd-b92c-69a64b9ea33d)
+
+<br>
