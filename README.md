@@ -485,8 +485,11 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 ![Screenshot 2024-03-19 102023](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/a3ba2696-69d7-4677-aa8e-93b295e6ab2c)
 
 <br>
+<b>PROPOGATION DELAY AND TRANSISTION TIME</b>
+<BR>
 
 
+<BR>
 
 ## DAY_3<a name="DAY_3"></a>
 <b><h1>/<b>/</h1>
