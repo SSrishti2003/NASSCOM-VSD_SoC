@@ -481,3 +481,8 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 ![Screenshot 2024-03-19 101309](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0997bcc0-81e6-4bdd-b92c-69a64b9ea33d)
 
 <br>
+
+
+
+## DAY_3<a name="DAY_3"></a>
+<b><h1>/<b>/</h1>
