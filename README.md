@@ -500,4 +500,5 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 <BR>
 
 ## DAY_3<a name="DAY_3"></a>
-<b><h1>/<b>/</h1>
+<b><h1>Sky130 Day 3 - Design library cell using Magic Layout and ngspice characterization<b>/</h1>
+<B><H2>SKY130_D3_SK1 - Labs for CMOS inverter ngspice simulations</B></H2>
