@@ -503,9 +503,12 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 <b><h1>Sky130 Day 3 - Design library cell using Magic Layout and ngspice characterization<b>/</h1>
 <B><H2>SKY130_D3_SK1 - Labs for CMOS inverter ngspice simulations</B></H2>
 <BR>
-<h3>IOPLACER</h3>
+<B>Changing FP_IO MODE</B>
 <BR>
 <BR>
 
+![Screenshot 2024-03-19 201332](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/dcc42c0d-d9ff-4d98-bad9-4d1bb23ffd8d)
+![Screenshot 2024-03-19 201706](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/7af9fa09-7f02-4545-854a-bfe4999e8695)
+![Screenshot 2024-03-19 201721](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ffac32f5-da51-4e7f-94f3-37ee333d16d6)
 
 <BR>
