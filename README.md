@@ -532,6 +532,12 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 ![Screenshot 2024-03-20 210506](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/86afa494-b423-4201-9c3e-480a8a0a2987)
 ![Screenshot 2024-03-20 210520](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d26d9849-4987-4fbb-ba02-e44013042975)
 ![Screenshot 2024-03-20 212532](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ae933ae6-e730-42c9-9125-d23de39e1dbc)
+
+<BR>
+<BR><BR>
+<B><H2> SKY130_D3_SK3 - Sky130 Tech File Labs </B></H2>
+<BR><BR>
+
 ![Screenshot 2024-03-20 211357](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ec826bd7-fe71-4723-b99b-bff9b3e856a7)
 ![Screenshot 2024-03-20 211718](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fb6ea6ef-3b23-4cd6-8752-a76385978bed)
 ![Screenshot 2024-03-20 212110](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/99094ab3-ecb1-4da9-91df-4c214f77b879)
@@ -541,12 +547,8 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 ![Screenshot 2024-03-20 220121](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/12426b69-a53b-443a-b644-bf6a8ea1c399)
 ![Screenshot 2024-03-20 221104](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/11d23d12-04b6-4558-9a2d-a4b3daf76983)
 
-
-<BR>
-<BR><BR>
-<B><H2> SKY130_D3_SK3 - Sky130 Tech File Labs </B></H2>
-<BR><BR>
-
+<br>
+<br>
 ## DAY_4<a name="DAY_4"></a>
 
 ## DAY_5<a name="DAY_5"></a>
