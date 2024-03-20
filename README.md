@@ -531,6 +531,13 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 ![Screenshot 2024-03-20 210412](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/195c379b-aeca-499d-8f00-ae9008f86e71)
 ![Screenshot 2024-03-20 210506](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/86afa494-b423-4201-9c3e-480a8a0a2987)
 ![Screenshot 2024-03-20 210520](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d26d9849-4987-4fbb-ba02-e44013042975)
+![Screenshot 2024-03-20 212532](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ae933ae6-e730-42c9-9125-d23de39e1dbc)
+![Screenshot 2024-03-20 211357](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ec826bd7-fe71-4723-b99b-bff9b3e856a7)
+![Screenshot 2024-03-20 211718](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fb6ea6ef-3b23-4cd6-8752-a76385978bed)
+![Screenshot 2024-03-20 212110](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/99094ab3-ecb1-4da9-91df-4c214f77b879)
+![Screenshot 2024-03-20 212116](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/af59e4c2-2361-4ad3-981c-ad066e4c4cbd)
+![Screenshot 2024-03-20 212352](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/701e395c-4785-44a9-843e-5597287bf00a)
+![Screenshot 2024-03-20 212400](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ca05d97e-936a-439a-9f36-4a333c3c09e0)
 
 
 <BR>
