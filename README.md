@@ -522,3 +522,15 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 
 <BR><BR>
 <B><H2> SKY130_D3_SK2 - Inception of Layout  CMOS fabrication process </B></H2>
+<BR><BR>
+
+![Screenshot 2024-03-20 210621](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/01a160e9-a3ad-4626-be7f-35f7c0eaf8dd)
+![Screenshot 2024-03-20 205918](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/a37ec0a6-59bc-4a6a-8118-65582c8c3e7c)
+![Screenshot 2024-03-20 210134](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6d2e766b-55c4-49ef-93e2-34c9318ff9ca)
+![Screenshot 2024-03-20 210329](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/eba13323-ba70-47cd-a73b-d79f642a423d)
+![Screenshot 2024-03-20 210412](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/195c379b-aeca-499d-8f00-ae9008f86e71)
+![Screenshot 2024-03-20 210506](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/86afa494-b423-4201-9c3e-480a8a0a2987)
+![Screenshot 2024-03-20 210520](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d26d9849-4987-4fbb-ba02-e44013042975)
+
+
+<BR>
