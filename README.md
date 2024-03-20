@@ -541,3 +541,6 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 
 
 <BR>
+<BR><BR>
+<B><H2> SKY130_D3_SK3 - Sky130 Tech File Labs </B></H2>
+<BR><BR>
