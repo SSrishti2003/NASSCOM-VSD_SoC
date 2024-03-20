@@ -545,10 +545,21 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 ![Screenshot 2024-03-20 212352](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/701e395c-4785-44a9-843e-5597287bf00a)
 ![Screenshot 2024-03-20 212400](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ca05d97e-936a-439a-9f36-4a333c3c09e0)
 ![Screenshot 2024-03-20 220121](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/12426b69-a53b-443a-b644-bf6a8ea1c399)
+![Screenshot 2024-03-20 220121](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/df82ea2a-0785-41f2-bbe3-c10277aa2864)
+![Screenshot 2024-03-20 221841](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ca11049f-7a3d-4486-a161-1d282c575170)
+![Screenshot 2024-03-20 223422](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/641f3071-32aa-4aba-87a4-afe1072dcea9)
+![Screenshot 2024-03-20 224110](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/cd1d213a-1d83-4eb3-889e-c428d632967d)
+![Screenshot 2024-03-20 224121](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c00f4601-9ffb-4336-99cc-3e2e5321538f)
+
+<br><br>
+TO reduce spikes, new change in sky130_inv.spice file.<br>
+<br>
+
 
 
 <br>
 <br>
+
 ## DAY_4<a name="DAY_4"></a>
 
 ## DAY_5<a name="DAY_5"></a>
