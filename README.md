@@ -580,6 +580,7 @@ RISE TIME CALCULATION<BR>
 RISE DELAY
 <BR>
 
+![Screenshot 2024-03-21 182444](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bf8a480f-114c-424f-888b-f5556ba28481)
 
 <BR>
 
