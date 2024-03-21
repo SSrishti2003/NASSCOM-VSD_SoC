@@ -525,6 +525,8 @@ We use buffers or repeaters to retain signal intergrity. They reproduce the same
 <BR><BR>
 
 ![Screenshot 2024-03-20 210621](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/01a160e9-a3ad-4626-be7f-35f7c0eaf8dd)
+![Screenshot 2024-03-21 222331](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/de62f391-be7c-489a-a681-7f71f9ec4a86)
+
 ![Screenshot 2024-03-20 205918](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/a37ec0a6-59bc-4a6a-8118-65582c8c3e7c)
 ![Screenshot 2024-03-20 210134](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6d2e766b-55c4-49ef-93e2-34c9318ff9ca)
 ![Screenshot 2024-03-20 210329](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/eba13323-ba70-47cd-a73b-d79f642a423d)
