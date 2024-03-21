@@ -577,6 +577,11 @@ RISE TIME CALCULATION<BR>
 2.24-2.18 = 0.06 ns
 <br>
 <br>
+RISE DELAY
+<BR>
+
+
+<BR>
 
 ## DAY_4<a name="DAY_4"></a>
 
