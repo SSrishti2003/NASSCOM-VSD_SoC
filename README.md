@@ -583,7 +583,29 @@ RISE DELAY
 ![Screenshot 2024-03-21 182444](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bf8a480f-114c-424f-888b-f5556ba28481)
 
 <BR>
+MAGIC WORKING 
+<BR><BR>
 
+![Screenshot 2024-03-21 195956](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/a975c235-30fc-4083-a9b6-6784aac15ee9)
+![Screenshot 2024-03-21 200013](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/45e2cf45-b03c-49ab-afbc-0c9b0823a730)
+![Screenshot 2024-03-21 200151](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ae73342a-9711-4a26-97e3-71bb84cd617b)
+![Screenshot 2024-03-21 200358](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/275ee93f-b569-4404-adac-d7ce29fa465c)
+![Screenshot 2024-03-21 200430](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/13e11289-bd5b-4368-a92c-76a64bac70f8)
+![Screenshot 2024-03-21 200532](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/227d449a-3933-447e-a5c9-aaca1cf612a2)
+![Screenshot 2024-03-21 200541](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/5f823b24-f9f8-4e47-95e8-86f8d174fd58)
+![Screenshot 2024-03-21 201130](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3dd12227-ed94-4d62-91fb-dc794e738fe4)
+![Screenshot 2024-03-21 201409](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4a1fc63a-af0b-4134-a4a9-7564f0d34fa7)
+![Screenshot 2024-03-21 202136](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/7cf961a9-ca09-42bb-95cd-da7449e7626d)
+![Screenshot 2024-03-21 202611](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2025a7bb-d886-49a1-a73d-2c18323f44b2)
+![Screenshot 2024-03-21 204227](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/45056a54-8fdd-4131-ad34-9f65528e95ce)
+![Screenshot 2024-03-21 204530](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c6c9fd5e-6a82-4a5b-9cbe-d3d8a6302b6f)
+![Screenshot 2024-03-21 204625](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/288096f5-1da6-49b0-9403-40e79cfdb872)
+![Screenshot 2024-03-21 204902](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/14133a9b-d1ad-4204-a192-68d6f7bbfdd3)
+![Screenshot 2024-03-21 205251](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/db8ed1f6-5b6f-4b41-aa89-1634e6d4205d)
+![Screenshot 2024-03-21 205429](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/726bc0e3-5e89-4484-ab9f-866aa4b57d04)
+![Screenshot 2024-03-21 205703](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b34c880d-e580-470f-8b9e-7e9b674aa017)
+
+<BR><BR>
 ## DAY_4<a name="DAY_4"></a>
 
 ## DAY_5<a name="DAY_5"></a>
