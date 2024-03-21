@@ -557,12 +557,24 @@ TO reduce spikes, new change in sky130_inv.spice file.<br>
 
 ![Screenshot 2024-03-20 224602](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/a3b9dc39-6125-453e-a5ac-4173ae552c59)
 ![Screenshot 2024-03-20 224633](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6721e759-457a-4a7e-952f-948a522f3902)
+
+<br>
+<br>
+RISE TIME CALCULATION<BR>
+
 ![Screenshot 2024-03-20 224902](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8e88b7b5-a1c3-4ebf-be1e-a7ddcb9e685c)
+
+<BR>20% VALUE<BR>
+
 ![Screenshot 2024-03-20 224910](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/075eadee-a0fb-432d-99e8-1bd5276b7d6a)
+
+<BR>80% VALUE IS GIVEN<BR>
+
 ![Screenshot 2024-03-20 225043](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/44c3b4db-c20f-48c6-91bf-2747c7b3a639)
-![Screenshot 2024-03-20 225125](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6cd95e83-c824-46e0-9668-70e10baab03a)
 
 
+<BR> 80% X VALUE - 20% X VALUE= RISE TIME
+2.24-2.18 = 0.06 ns
 <br>
 <br>
 
