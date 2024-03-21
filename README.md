@@ -571,7 +571,7 @@ RISE TIME CALCULATION<BR>
 <BR>80% VALUE IS GIVEN<BR>
 
 ![Screenshot 2024-03-20 225043](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/44c3b4db-c20f-48c6-91bf-2747c7b3a639)
-
+![Screenshot 2024-03-21 181956](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8a55f1f6-9092-4f10-a576-5b80b61ce6db)
 
 <BR> 80% X VALUE - 20% X VALUE= RISE TIME
 2.24-2.18 = 0.06 ns
