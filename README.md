@@ -624,11 +624,9 @@ Now we will check the grids and track info according to thr labs.
 <br><br><b> The width of the standard cell should be in the odd multiples of x direction pitch</b>
 <br>
 
-
-![Screenshot 2024-03-22 161337](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/93c59795-8ee6-4f9f-80e0-5e20d2489f0c)
-![Screenshot 2024-03-22 161653](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/7860ecb5-8993-4a1b-b725-90dec30c7015)
-![Screenshot 2024-03-22 161145](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e181fbb0-a42f-49fd-9b29-e340087e5fae)
-![Screenshot 2024-03-22 160934](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/770db287-fac8-43b2-95bf-33302f1a9f4b)
+![Screenshot 2024-03-22 161145](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0939f952-f96d-4119-9461-c28c82e32234)
+![Screenshot 2024-03-22 161337](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b66d3172-439f-4607-bbc4-2f32c2da4ad2)
+![Screenshot 2024-03-22 161653](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/39df8906-9d9f-4327-964d-8630d99a27ea)
 
 <Br>
 ## DAY_5<a name="DAY_5"></a>
