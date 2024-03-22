@@ -624,9 +624,20 @@ Now we will check the grids and track info according to thr labs.
 <br><br><b> The width of the standard cell should be in the odd multiples of x direction pitch</b>
 <br>
 
+![Screenshot 2024-03-22 160934](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/a2cff06e-646a-4611-8d8c-56c3353024c2)
 ![Screenshot 2024-03-22 161145](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0939f952-f96d-4119-9461-c28c82e32234)
 ![Screenshot 2024-03-22 161337](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b66d3172-439f-4607-bbc4-2f32c2da4ad2)
 ![Screenshot 2024-03-22 161653](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/39df8906-9d9f-4327-964d-8630d99a27ea)
 
 <Br>
+<br>CREATING A LEF FILE IN MAGIC <BR>
+<BR>
+
+![Screenshot 2024-03-22 162329](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0fdb4395-0fd1-4af0-a5a2-b13c47b7fae3)
+![Screenshot 2024-03-22 162538](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/619d934d-f2d7-4a96-bc05-80e0db761a1b)
+![Screenshot 2024-03-22 162646](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/617203b2-8364-4830-954b-e43d320c0fcd)
+![Screenshot 2024-03-22 162735](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1e6bc4a9-143e-41f2-911e-66e8d49a7e84)
+![Screenshot 2024-03-22 162854](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bc645ecb-8f5b-405b-afbe-76f5b72104d8)
+
+<BR>
 ## DAY_5<a name="DAY_5"></a>
