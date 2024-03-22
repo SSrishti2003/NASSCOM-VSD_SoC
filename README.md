@@ -655,7 +655,7 @@ Now we will check the grids and track info according to thr labs.
 ![Screenshot 2024-03-22 183323](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/07f7cbee-e389-463e-99a3-208083b2998c)
 ![Screenshot 2024-03-22 183350](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ddd2318a-a360-4820-b365-bbb91fb9f1fc)
 ![Screenshot 2024-03-22 183419](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/f065995d-7e9e-41da-916c-8dd1aae33335)
-![Screenshot 2024-03-22 183740](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8041408c-96c7-4038-a99c-624c6d489f3c)
+
 
 <br>
 <b><h2>SKY130_D4_SK2 - Timing analysis with ideal clocks using openSTA</h2></b>
