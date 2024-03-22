@@ -670,5 +670,16 @@ Now we will check the grids and track info according to thr labs.
 <b><h2>SKY130_D4_SK2 - Timing analysis with ideal clocks using openSTA</h2></b>
 <BR>
 
+![Screenshot 2024-03-22 223654](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bb1c1eff-d141-4ae3-b607-b37b72cd51f1)
+![Screenshot 2024-03-22 223814](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bd324763-8190-4e6b-acae-49d7b0efb7c7)
+![Screenshot 2024-03-22 223922](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/494e4d16-8323-4489-924b-6cc0aefc2946)
+![Screenshot 2024-03-22 223931](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/46789032-2478-43db-acb1-75cde58756e4)
+![Screenshot 2024-03-22 225047](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/46c7732d-58ed-4ac0-8b41-832f0e741e9f)
+![Screenshot 2024-03-22 225059](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/52fb217e-9cd1-4a4a-8efc-ae077d0d99c5)
+![Screenshot 2024-03-22 230406](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/86de7491-5e47-4e5a-adf4-0b4aebe73245)
+![Screenshot 2024-03-22 230453](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/03c0998b-b752-412d-b8b8-323fc908356c)
+![Screenshot 2024-03-22 230506](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/9821a7c6-6a75-433f-9fec-d11d3d64b1d9)
+![Screenshot 2024-03-22 230527](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/eb46e61f-b588-440b-92cd-185b64ff445b)
+
 <BR>
 ## DAY_5<a name="DAY_5"></a>
