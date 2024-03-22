@@ -611,8 +611,15 @@ MAGIC WORKING
 ## DAY_4<a name="DAY_4"></a>
 <b><h1>Sky130 Day 4 - Pre-layout timing analysis and importance of good clock tree</b></h1>
 <b><h2>SKY130_D4_SK1 - Timing modelling using delay tables</b></h2>
+Now we will check the grids and track info according to thr labs.
 <br>
 
+![Screenshot 2024-03-22 154519](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0213ae3a-34ad-492b-9837-e84b1cd8d461)
+![Screenshot 2024-03-22 155337](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e63f2ed4-68d6-4d5d-996b-3442bf7795ca)
+![Screenshot 2024-03-22 155400](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/317f5dd6-1e64-43e9-9c5b-9996dbcee1fa)
+![Screenshot 2024-03-22 155819](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6c1e8b7e-8e2e-4bf9-9f77-54440fe27c18)
+![Screenshot 2024-03-22 155851](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/5592ab74-ee68-42ae-83c2-925739332e25)
+![Screenshot 2024-03-22 160010](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/9a5fa419-9d60-4490-bf36-f0351e24b46e)
 
 <br>
 ## DAY_5<a name="DAY_5"></a>
