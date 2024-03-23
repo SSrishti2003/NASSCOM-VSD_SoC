@@ -685,6 +685,20 @@ Now we will check the grids and track info according to thr labs.
 <br><b><h2>SKY130_D4_SK3 - Clock tree synthesis TritonCTS and signal integrity</h2></b><br>
 <Br>
 
+![Screenshot 2024-03-23 142558](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/acdc24de-c6e9-4c47-9744-e242a5893a52)
+![Screenshot 2024-03-23 143857](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6bd1ca0f-9f56-4d2e-8e26-95c4433153cf)
+![Screenshot 2024-03-23 144109](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b9dc38b5-4867-43ab-a9b8-7af20d50afed)
+![Screenshot 2024-03-23 145426](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/073d8bdd-e047-4c44-b52b-03e7bcbe5888)
+![Screenshot 2024-03-23 151630](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/f9bd8eda-e2ad-4e3a-8351-874441a1bebd)
+![Screenshot 2024-03-23 151651](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3e817327-5ce8-44cf-aee9-8f1c594a0513)
+![Screenshot 2024-03-23 152858](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d00ae01e-d4c6-49cb-b80f-6ffd67e212f7)
+![Screenshot 2024-03-23 153403](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b0221b49-077a-42a4-907c-94656c6bc637)
+![Screenshot 2024-03-23 153419](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c28b367c-10a6-41a0-bea3-5eda56d02cc9)
+![Screenshot 2024-03-23 153453](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/16fcefb5-cdd6-47d9-86c1-5cbde7e6701e)
+![Screenshot 2024-03-23 154010](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/5bde9554-fd66-41de-ac7c-afabf081a5dc)
+![Screenshot 2024-03-23 154147](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/031dffc1-6f5d-4ba2-a6dc-15dcc4f0670a)
+![Screenshot 2024-03-23 154159](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/75843833-5161-41b8-86d2-50e52678114e)
+![Screenshot 2024-03-23 154644](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6befb3f8-14c0-4f90-8718-f0303b93ca11)
 
 <Br>
 <Br><b><h2>SKY130_D4_SK4 - Timing analysis with real clocks using openSTA</h2></b><br>
