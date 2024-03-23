@@ -712,6 +712,14 @@ Now we will check the grids and track info according to thr labs.
 ![Screenshot 2024-03-23 162317](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/dafbae11-e6c1-4f18-8ba3-e954b53cd64e)
 ![Screenshot 2024-03-23 162344](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/73662295-e3aa-48a0-8216-7a8f56db82d4)
 ![Screenshot 2024-03-23 162714](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fe0b9e84-7964-437b-aba4-d836e9d00a27)
+![Screenshot 2024-03-23 164302](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fcd956dc-a247-43e1-ba44-28efd1cc87f7)
+![Screenshot 2024-03-23 164449](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e43f8803-f234-4b40-ac39-6802187aa4b7)
+![Screenshot 2024-03-23 164501](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1d528ddd-3b2e-42d1-882e-c919531c1dac)
+![Screenshot 2024-03-23 165030](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6e61fb49-5ca9-4d64-81b4-f40b7fd81f7f)
+![Screenshot 2024-03-23 165500](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c642bc05-1c4c-463e-92ee-c463b62de4d4)
+![Screenshot 2024-03-23 165715](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/5e052c70-bc9d-40b9-8fcf-857a43434c0f)
+![Screenshot 2024-03-23 165723](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/eb0cce4c-1657-4224-88e3-41ddf30dc96d)
+![Screenshot 2024-03-23 165732](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3224e345-1559-42a9-a2a1-8ec968e25869)
 
 <br>
 
