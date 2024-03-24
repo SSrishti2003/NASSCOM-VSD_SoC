@@ -769,13 +769,19 @@ There are some techniques to build the wires. Those techniques reffered as photo
 <BR>
 <Br><b><h2>SKY130_D5_SK2 - Power Distribution Network and routing</h2></b><br>
 In this lab activity repeat the previous steps:
-1) docker
-2) flow.tcl -interactive
-3) prep -design flow -tag(file which u did cts run in)
-4) ech $::env(CURRENT_DEF) { It will show the last picorv32a.cts.def)
-5) gen_pdn
+1) docker<br>
+2) flow.tcl -interactive<br>
+3) prep -design flow -tag(file which u did cts run in)<br>
+4) ech $::env(CURRENT_DEF) { It will show the last picorv32a.cts.def)<br>
+5) gen_pdn<br>
 <br><b>POWER STRAPS</b><BR>
 <BR>
 
 
 <BR>
+<BR>
+LAST STEP IS run_routing<br>
+the current_def is also changed to floorplan.
+<br>
+<br>
+<Br><b><h2>SKY130_D5_SK3 - TritonRoute Features</h2></b><br>
