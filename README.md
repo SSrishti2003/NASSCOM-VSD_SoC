@@ -724,5 +724,13 @@ Now we will check the grids and track info according to thr labs.
 <br>
 
 ## DAY_5<a name="DAY_5"></a>
+<h1><b>Sky130 Day 5 - Final steps for RTL2GDS using tritonRoute and openSTA</b></h1>
 <Br><b><h2>SKY130_D5_SK1 - Routing and design rule check (DRC)</h2></b><br>
+<br><B> ROUTING </B>: To find best possible connection between two end points where one is source and other is target. Now we will discuss Lee's Algorithm.<br>
+<br>
+
+<br>
+<br>Take care of the obstacles as well. Design the algorithm like such. This algorithm represents the routing layer as a grid, where each grid point can contain connections to adjacent grid points.
+<br>
+
 <br>
