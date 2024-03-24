@@ -768,3 +768,14 @@ There are some techniques to build the wires. Those techniques reffered as photo
 
 <BR>
 <Br><b><h2>SKY130_D5_SK2 - Power Distribution Network and routing</h2></b><br>
+In this lab activity repeat the previous steps:
+1) docker
+2) flow.tcl -interactive
+3) prep -design flow -tag(file which u did cts run in)
+4) ech $::env(CURRENT_DEF) { It will show the last picorv32a.cts.def)
+5) gen_pdn
+<br><b>POWER STRAPS</b><BR>
+<BR>
+
+
+<BR>
