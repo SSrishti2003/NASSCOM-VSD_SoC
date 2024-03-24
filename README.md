@@ -777,10 +777,8 @@ In this lab activity repeat the previous steps:
 <br><b>POWER STRAPS</b><BR>
 <BR>
 
-![Screenshot 2024-03-24 133805](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/f3851828-4bc1-449f-9a30-97b89bc6abe1)
 ![Screenshot 2024-03-24 135351](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fee5064f-01be-4dca-963b-0855d41792d4)
 ![Screenshot 2024-03-24 140311](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/70e8cfc9-63a3-4073-a3cf-be7ae6d92518)
-
 
 <BR>
 <BR>
