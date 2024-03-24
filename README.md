@@ -748,10 +748,22 @@ Now we will check the grids and track info according to thr labs.
 <br><b>DRC CLEAN</b>: Whenever you build a wire, there should be minimum spacing between the two or distance between them.<br>
 <br>
 
+![Screenshot 2024-03-24 125125](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/894c2e65-1442-49df-8a09-0f0d55f0d687)
+
 <br>
 <BR> THERE ARE 3 BASIC RULES: WIDTH , SPACING AND PITCH. <BR>
 There are some techniques to build the wires. Those techniques reffered as photolithography. Photolithography is used light to build these wires.
 <BR>
 
+![Screenshot 2024-03-24 125125](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/894c2e65-1442-49df-8a09-0f0d55f0d687)
+![Screenshot 2024-03-24 125308](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/01ae6a69-ec5b-4215-b507-a27c0d91f4c8)
+![Screenshot 2024-03-24 125517](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c00f70ab-4788-4000-9e1b-7d0d5f55237f)
+![Screenshot 2024-03-24 125538](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ed6a0f64-e409-4982-b8bc-eaf069826dca)
+![Screenshot 2024-03-24 125602](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c56a8c14-85ef-448b-a386-c07c06109b4c)
+![Screenshot 2024-03-24 125622](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2d228e8f-6587-4213-8086-7daa0f36e90b)
+![Screenshot 2024-03-24 125632](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/dfc53ba9-abaa-4ae0-a7d8-58ffef9c2f61)
+![Screenshot 2024-03-24 125640](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/58b45984-fa98-4c31-a3ae-7d192145532b)
+![Screenshot 2024-03-24 125649](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fe4f84ea-0903-4e18-aabe-798406faced9)
+![Screenshot 2024-03-24 125710](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/f8e44d37-16a4-44db-b9b4-08a0f2765bfa)
 
 <BR>
