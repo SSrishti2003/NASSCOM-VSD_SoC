@@ -745,4 +745,13 @@ Now we will check the grids and track info according to thr labs.
 ![Screenshot 2024-03-24 124840](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/90edcec4-69a5-401c-aebb-a6e869d7a215)
 
 <br>
-<br><b>DRC CLEAN</b>
+<br><b>DRC CLEAN</b>: Whenever you build a wire, there should be minimum spacing between the two or distance between them.<br>
+<br>
+
+<br>
+<BR> THERE ARE 3 BASIC RULES: WIDTH , SPACING AND PITCH. <BR>
+There are some techniques to build the wires. Those techniques reffered as photolithography. Photolithography is used light to build these wires.
+<BR>
+
+
+<BR>
