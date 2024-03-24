@@ -777,11 +777,25 @@ In this lab activity repeat the previous steps:
 <br><b>POWER STRAPS</b><BR>
 <BR>
 
+![Screenshot 2024-03-24 133805](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/f3851828-4bc1-449f-9a30-97b89bc6abe1)
+![Screenshot 2024-03-24 135351](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fee5064f-01be-4dca-963b-0855d41792d4)
+![Screenshot 2024-03-24 140311](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/70e8cfc9-63a3-4073-a3cf-be7ae6d92518)
+
 
 <BR>
 <BR>
 LAST STEP IS run_routing<br>
 the current_def is also changed to floorplan.
 <br>
-<br>
 <Br><b><h2>SKY130_D5_SK3 - TritonRoute Features</h2></b><br>
+<br>
+
+![Screenshot 2024-03-24 140514](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/afa43a2f-db5c-4ff4-95f2-b350a20008e0)
+![Screenshot 2024-03-24 140535](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1efc992d-83f7-4bef-9ab7-a9acc918b963)
+![Screenshot 2024-03-24 140548](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3c05fa06-7d61-44a1-aa74-f873e75bf55b)
+![Screenshot 2024-03-24 140617](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4b7c7e71-2bfd-4b62-b98a-62242ac5d448)
+![Screenshot 2024-03-24 140651](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e9be8a28-6a03-4295-9ee3-fe9e42ad99fc)
+![Screenshot 2024-03-24 140701](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/97519088-09a6-4eb6-914f-2962219ebad4)
+![Screenshot 2024-03-24 140738](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/55eab492-08d5-496c-9b51-ca3e3f2c459e)
+
+<br>
