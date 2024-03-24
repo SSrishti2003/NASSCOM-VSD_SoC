@@ -729,8 +729,20 @@ Now we will check the grids and track info according to thr labs.
 <br><B> ROUTING </B>: To find best possible connection between two end points where one is source and other is target. Now we will discuss Lee's Algorithm.<br>
 <br>
 
+![Screenshot 2024-03-24 123614](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bcff8cb6-2cde-4112-89cf-6cc9ef17c977)
+![Screenshot 2024-03-24 123836](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/5eda8832-a421-4b31-abb6-43003fd9c94e)
+
 <br>
 <br>Take care of the obstacles as well. Design the algorithm like such. This algorithm represents the routing layer as a grid, where each grid point can contain connections to adjacent grid points.
 <br>
 
+![Screenshot 2024-03-24 124025](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/690c10d8-98ea-4bf6-ad4c-a2bf6ef3b340)
+![Screenshot 2024-03-24 124358](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/05de0c78-88b5-46a3-a3ce-85ee836159ce)
+![Screenshot 2024-03-24 124632](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/cd697bc3-fa3f-4248-abde-5536571994fd)
+![Screenshot 2024-03-24 124648](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bfa4005d-f28e-41df-a767-8bc8f8348e71)
+![Screenshot 2024-03-24 124658](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ba18e7e0-4708-44a1-b0a6-cd13a527035d)
+![Screenshot 2024-03-24 124810](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/266fde24-62da-4b59-98d0-31d734433dea)
+![Screenshot 2024-03-24 124840](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/90edcec4-69a5-401c-aebb-a6e869d7a215)
+
 <br>
+<br><b>DRC CLEAN</b>
