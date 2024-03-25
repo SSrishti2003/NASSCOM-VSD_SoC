@@ -742,6 +742,9 @@ Now we will check the grids and track info according to thr labs.
 ![Screenshot 2024-03-24 124648](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bfa4005d-f28e-41df-a767-8bc8f8348e71)
 ![Screenshot 2024-03-24 124658](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ba18e7e0-4708-44a1-b0a6-cd13a527035d)
 ![Screenshot 2024-03-24 124810](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/266fde24-62da-4b59-98d0-31d734433dea)
+
+<br>What we can see is that the numbers are occupied at the adjacent ones of previous numbers which is exactly thr lee's algorithm.<br>
+
 ![Screenshot 2024-03-24 124840](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/90edcec4-69a5-401c-aebb-a6e869d7a215)
 
 <br>
@@ -759,6 +762,9 @@ There are some techniques to build the wires. Those techniques reffered as photo
 ![Screenshot 2024-03-24 125308](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/01ae6a69-ec5b-4215-b507-a27c0d91f4c8)
 ![Screenshot 2024-03-24 125517](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c00f70ab-4788-4000-9e1b-7d0d5f55237f)
 ![Screenshot 2024-03-24 125538](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ed6a0f64-e409-4982-b8bc-eaf069826dca)
+
+<br><br> When 2 wires are intersectinf a via is used between the metal layers and it is shown below. The vias also need to follow the DRC rules <br>
+
 ![Screenshot 2024-03-24 125602](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c56a8c14-85ef-448b-a386-c07c06109b4c)
 ![Screenshot 2024-03-24 125622](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2d228e8f-6587-4213-8086-7daa0f36e90b)
 ![Screenshot 2024-03-24 125632](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/dfc53ba9-abaa-4ae0-a7d8-58ffef9c2f61)
