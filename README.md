@@ -774,6 +774,12 @@ In this lab activity repeat the previous steps:
 3) prep -design flow -tag(file which u did cts run in)<br>
 4) ech $::env(CURRENT_DEF) { It will show the last picorv32a.cts.def)<br>
 5) gen_pdn<br>
+<br>
+
+![Screenshot 2024-03-25 151416](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3a2e89e2-3aec-4052-b76b-d1d1aac6f2e9)
+
+<br>
+
 <br><b>POWER STRAPS</b><BR>
 <BR>
 
