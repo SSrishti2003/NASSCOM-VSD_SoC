@@ -798,8 +798,17 @@ TRITON ROUTE: Features of triton route: engine which is used by detail/fast rout
 ![Screenshot 2024-03-24 140535](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1efc992d-83f7-4bef-9ab7-a9acc918b963)
 ![Screenshot 2024-03-24 140548](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3c05fa06-7d61-44a1-aa74-f873e75bf55b)
 ![Screenshot 2024-03-24 140617](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4b7c7e71-2bfd-4b62-b98a-62242ac5d448)
+![Screenshot 2024-03-25 133655](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bdbcca06-1369-4605-a66d-0f7ee8e3ebbe)
+![Screenshot 2024-03-25 133751](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/37d2f3a6-c422-405d-8ca0-06b235190e1f)
+
+<br>
+<br>
+HANDLE CONNECTIVITY IN TRITON ROUTE<BR>
+<BR>
+
 ![Screenshot 2024-03-24 140651](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e9be8a28-6a03-4295-9ee3-fe9e42ad99fc)
 ![Screenshot 2024-03-24 140701](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/97519088-09a6-4eb6-914f-2962219ebad4)
 ![Screenshot 2024-03-24 140738](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/55eab492-08d5-496c-9b51-ca3e3f2c459e)
 
 <br>
+<BR><B>Routing topology algorithm and final files list post-route</B><BR>
