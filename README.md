@@ -853,8 +853,14 @@ Now we can see the number of violations in the lab after choosing the triton rou
 <BR>
 
 ![Screenshot 2024-03-25 183113](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2ca1c669-933e-4af3-aae9-0693e0be89bd)
+
+<Br><BR> In the above pic, we went to the README.md file in configuration/openlane to look at the routing variables. <br><br>
+
 ![Screenshot 2024-03-25 184354](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d3942e8b-6f76-43eb-adab-56f9aa97aec9)
 ![Screenshot 2024-03-25 184410](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d45e63e9-d422-4d24-8da1-d093d7cf4e63)
+
+<br><br> We can see that the number of total violations is 0 in our case which is a good sign. and the spef file is already extracted.<br><br>
+
 ![Screenshot 2024-03-25 184601](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bd54702e-6792-4c30-955b-10c10f4d2484)
 ![Screenshot 2024-03-25 184642](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/294e2d40-199b-4781-b65c-d6b9e2db0554)
 ![Screenshot 2024-03-25 185033](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8137e76c-f155-4c42-a19b-976a6f9e2444)
