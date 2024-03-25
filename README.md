@@ -825,3 +825,19 @@ Now we can see the number of violations in the lab after choosing the triton rou
 
 <br>
 <br> Lets solve the violations manually. <br> STEPS:
+1)Go to picorv32a/runs/___/tmp/routing/fastroute.guide. Check this fastroute.guide and read about the routing guides for each net.<br>
+2)We will do spef extraction now. Go to Desktop/work/tools<br>
+3)cd spef_extraction<br>
+4)ls -ltr (Python files will be there. To generate the spef we need to include lef & def files using the below command.)<br>
+5)Desktop/work/tools/spef_extraction python3 main.py <br>
+  /home/vsduser/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/22-03_17-07/tmp/merged.lef <br>
+  /home/vsduser/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/__/tmp/routing/picorv32a.def <br>
+6)spef will be saved in the same location as def file.<br>
+/home/vsduser/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/22-03_17-05/tmp/routing<br>
+7)The new def file will create in the above location picorv32a_new.def  (this def file will be replaced by spef file picorv32a.spef)<br>
+8)If we go this path we can see 4 verilog(.v) files.<br>
+1. picorv32a_synthesis.v After Synthesis one netlist file. (during floorplan and placement we don't have netlist file because no modifications are done in netlist file)<br>
+2. picorv32a_synthesis_cts.v After CTS stage one netlist file. During CTS stage the clock connected to all the cells the modified netlist we will get)<br>
+3. picorv32a_synthesis_diodes.v & picorv32a_synthesis_preroute.v<br>
+These netlists are happening before the routing. pre routing - The antenna diode inserton happening.<br>
+The final verilog which will used for routing & post STA anlysis is picorv32a_synthesis_preroute.v & sdc & read spef<br>
