@@ -815,3 +815,9 @@ The algorithm sayd to find the minimal and most optimal point between two APCs.<
 <BR>
 
 ![Screenshot 2024-03-24 140738](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/55eab492-08d5-496c-9b51-ca3e3f2c459e)
+
+<br>
+Now we can see the number of violations in the lab after choosing the triton route as 0. If I choose t TraitonRoute strategy as 14, then we would see 0 violations.<br>
+<br>
+
+<br>
