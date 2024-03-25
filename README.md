@@ -789,6 +789,12 @@ the current_def is also changed to floorplan.
 <br>
 
 ![Screenshot 2024-03-24 140514](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/afa43a2f-db5c-4ff4-95f2-b350a20008e0)
+
+<br>
+TRITON ROUTE: Features of triton route: engine which is used by detail/fast route.<br>
+
+<br>
+
 ![Screenshot 2024-03-24 140535](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1efc992d-83f7-4bef-9ab7-a9acc918b963)
 ![Screenshot 2024-03-24 140548](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3c05fa06-7d61-44a1-aa74-f873e75bf55b)
 ![Screenshot 2024-03-24 140617](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4b7c7e71-2bfd-4b62-b98a-62242ac5d448)
