@@ -789,6 +789,16 @@ In this lab activity repeat the previous steps:
 <BR>
 <BR>
 LAST STEP IS run_routing<br>
+<B>LAB STEPS</B>
+<BR><BR>
+
+![Screenshot 2024-03-25 182128](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/0e68d053-5fe3-452d-9a83-3eafc30a5951)
+![Screenshot 2024-03-25 182430](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/841ba3ae-d52d-4db7-bda3-9c1613cf0ffb)
+![Screenshot 2024-03-25 182439](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8b538dab-48dd-4fc5-a742-e1406598a1a1)
+![Screenshot 2024-03-25 182542](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/9f7fd8fa-a9a5-451d-95e5-9c6e7d062c61)
+![Screenshot 2024-03-25 182702](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/4238f439-395d-4819-a5e6-e725b9200836)
+
+<BR><BR>
 the current_def is also changed to floorplan.
 <br>
 <Br><b><h2>SKY130_D5_SK3 - TritonRoute Features</h2></b><br>
@@ -839,4 +849,15 @@ Now we can see the number of violations in the lab after choosing the triton rou
 6)spef will be saved in the same location as def file.<br>
 /home/vsduser/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/22-03_17-05/tmp/routing<br>
 7)The new def file will create in the above location picorv32a_new.def  (this def file will be replaced by spef file picorv32a.spef)<br>
+<BR><B>LAB STEPS</B><BR>
+<BR>
 
+![Screenshot 2024-03-25 183113](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/2ca1c669-933e-4af3-aae9-0693e0be89bd)
+![Screenshot 2024-03-25 184354](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d3942e8b-6f76-43eb-adab-56f9aa97aec9)
+![Screenshot 2024-03-25 184410](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d45e63e9-d422-4d24-8da1-d093d7cf4e63)
+![Screenshot 2024-03-25 184601](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/bd54702e-6792-4c30-955b-10c10f4d2484)
+![Screenshot 2024-03-25 184642](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/294e2d40-199b-4781-b65c-d6b9e2db0554)
+![Screenshot 2024-03-25 185033](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/8137e76c-f155-4c42-a19b-976a6f9e2444)
+![Screenshot 2024-03-25 185113](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/014b2f7c-fc35-4fee-af2c-90dda9755760)
+
+<BR>
