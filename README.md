@@ -808,7 +808,10 @@ HANDLE CONNECTIVITY IN TRITON ROUTE<BR>
 
 ![Screenshot 2024-03-24 140651](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e9be8a28-6a03-4295-9ee3-fe9e42ad99fc)
 ![Screenshot 2024-03-24 140701](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/97519088-09a6-4eb6-914f-2962219ebad4)
-![Screenshot 2024-03-24 140738](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/55eab492-08d5-496c-9b51-ca3e3f2c459e)
 
 <br>
 <BR><B>Routing topology algorithm and final files list post-route</B><BR>
+The algorithm sayd to find the minimal and most optimal point between two APCs.<br>
+<BR>
+
+![Screenshot 2024-03-24 140738](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/55eab492-08d5-496c-9b51-ca3e3f2c459e)
