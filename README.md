@@ -702,11 +702,14 @@ Now we will check the grids and track info according to thr labs.
 
 <Br>
 <Br><b><h2>SKY130_D4_SK4 - Timing analysis with real clocks using openSTA</h2></b><br>
-<br>
+<br><br>First invoke the openroad tool which is one of the opeanlane tools. <br>
 
 ![Screenshot 2024-03-23 161352](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e13e9623-7fb9-4acc-b5c3-f64ab9de7a6c)
 ![Screenshot 2024-03-23 161633](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b43c082b-1d0f-4bd7-8d81-f96f247a8087)
 ![Screenshot 2024-03-23 161812](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/232a478e-14fb-4364-a3b6-adca758dc516)
+
+<br> We will write the db files here, which is shown in openlane.<br><br>
+
 ![Screenshot 2024-03-23 161936](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d0eeacd3-12fd-4f12-ae55-bee60fdf9342)
 ![Screenshot 2024-03-23 161954](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/3ac25ee8-d606-44f6-96af-0f2cdf5e02f9)
 ![Screenshot 2024-03-23 162317](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/dafbae11-e6c1-4f18-8ba3-e954b53cd64e)
@@ -715,6 +718,9 @@ Now we will check the grids and track info according to thr labs.
 ![Screenshot 2024-03-23 164302](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/fcd956dc-a247-43e1-ba44-28efd1cc87f7)
 ![Screenshot 2024-03-23 164449](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/e43f8803-f234-4b40-ac39-6802187aa4b7)
 ![Screenshot 2024-03-23 164501](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/1d528ddd-3b2e-42d1-882e-c919531c1dac)
+
+<br>Link the picorv32a design here and other commands. And then report_checks is run<br>
+
 ![Screenshot 2024-03-23 165030](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/6e61fb49-5ca9-4d64-81b4-f40b7fd81f7f)
 ![Screenshot 2024-03-23 165500](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/c642bc05-1c4c-463e-92ee-c463b62de4d4)
 ![Screenshot 2024-03-23 165715](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/5e052c70-bc9d-40b9-8fcf-857a43434c0f)
