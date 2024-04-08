@@ -394,10 +394,11 @@ magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs
 <BR>
 <BR>
 
-![Screenshot 2024-03-18 181402](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/d2a9f665-4a31-4479-aa6b-35bb63cad980)
-![Screenshot 2024-03-18 181413](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/ac4bdc1a-06f4-43e6-921e-1d880f8030dd)
-![Screenshot 2024-03-18 181427](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/636759ac-addb-4472-90d8-8f7f950a2d87)
-![Screenshot 2024-03-18 183425](https://github.com/SSrishti2003/NASSDOM-VSD_SoC/assets/121450826/b7d5a711-dc1e-4162-8c84-d609d471a4ce)
+![Screenshot 2024-04-08 160401](https://github.com/SSrishti2003/NASSCOM-VSD_SoC/assets/121450826/5091f0f9-c2b1-4aa4-a265-e3d5f27fe92b)
+![Screenshot 2024-04-08 160420](https://github.com/SSrishti2003/NASSCOM-VSD_SoC/assets/121450826/91b6a783-bf17-494f-a8c6-46abb2c04414)
+![Screenshot 2024-04-08 161015](https://github.com/SSrishti2003/NASSCOM-VSD_SoC/assets/121450826/2159c478-b126-4c99-9e30-e32ac9bf4d62)
+![Screenshot 2024-04-08 161545](https://github.com/SSrishti2003/NASSCOM-VSD_SoC/assets/121450826/c1faeb88-074d-4c7d-91c2-73bf7d9ed65c)
+
 
 <br>
 <br>
